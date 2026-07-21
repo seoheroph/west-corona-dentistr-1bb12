@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://seoheroph.github.io/west-corona-dentistr-1bb12/</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://seoheroph.github.io/west-corona-dentistr-1bb12/emergency-dentist-in-corona-california.html</loc>
-    <lastmod>2026-07-13</lastmod>
+    <loc>https://seoheroph.github.io/west-corona-dentistr-1bb12/dental-implants-in-corona-california.html</loc>
+    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://seoheroph.github.io/west-corona-dentistr-1bb12/emergency-dentist-in-corona-california.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
