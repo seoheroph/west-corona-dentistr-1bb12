@@ -2,31 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://west-corona-dentistr-1bb12.pages.dev/</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://west-corona-dentistr-1bb12.pages.dev/veneers-in-corona-california.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <loc>https://west-corona-dentistr-1bb12.pages.dev/extractions-in-corona.html</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://west-corona-dentistr-1bb12.pages.dev/dental-implants-in-corona-california.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://west-corona-dentistr-1bb12.pages.dev/emergency-dentist-in-corona-california.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://west-corona-dentistr-1bb12.pages.dev/invisalign-in-corona-california.html</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://west-corona-dentistr-1bb12.pages.dev/veneers-in-corona-california.html</loc>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
